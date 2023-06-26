@@ -1,0 +1,14 @@
+{
+  "name": "aws-lambda-node",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "dependencies": {
+    "@opentelemetry/api": "^1.4.1"
+  },
+  "devDependencies": {}
+}
